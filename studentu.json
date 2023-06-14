@@ -1,0 +1,102 @@
+{
+  "11" : {
+    "studentoId" : "11",
+    "studentoVardas" : "Dr. Sherice Romaguera",
+    "slaptazodis" : "1235"
+  },
+  "12" : {
+    "studentoId" : "12",
+    "studentoVardas" : "Milton Reynolds DDS",
+    "slaptazodis" : "1235"
+  },
+  "13" : {
+    "studentoId" : "13",
+    "studentoVardas" : "Gilberte Beier",
+    "slaptazodis" : "1235"
+  },
+  "14" : {
+    "studentoId" : "14",
+    "studentoVardas" : "Winston Howell",
+    "slaptazodis" : "1235"
+  },
+  "15" : {
+    "studentoId" : "15",
+    "studentoVardas" : "Tobias Schulist III",
+    "slaptazodis" : "1235"
+  },
+  "16" : {
+    "studentoId" : "16",
+    "studentoVardas" : "Mercy Zemlak",
+    "slaptazodis" : "1235"
+  },
+  "17" : {
+    "studentoId" : "17",
+    "studentoVardas" : "Kaitlyn Pouros",
+    "slaptazodis" : "1235"
+  },
+  "18" : {
+    "studentoId" : "18",
+    "studentoVardas" : "Jenniffer Orn",
+    "slaptazodis" : "1235"
+  },
+  "19" : {
+    "studentoId" : "19",
+    "studentoVardas" : "Florentino Hilpert",
+    "slaptazodis" : "1235"
+  },
+  "1" : {
+    "studentoId" : "1",
+    "studentoVardas" : "Wilton Hagenes",
+    "slaptazodis" : "1235"
+  },
+  "2" : {
+    "studentoId" : "2",
+    "studentoVardas" : "Garfield Schiller",
+    "slaptazodis" : "1235"
+  },
+  "3" : {
+    "studentoId" : "3",
+    "studentoVardas" : "Cheryle Gleason",
+    "slaptazodis" : "1235"
+  },
+  "4" : {
+    "studentoId" : "4",
+    "studentoVardas" : "Laraine Ledner",
+    "slaptazodis" : "1235"
+  },
+  "5" : {
+    "studentoId" : "5",
+    "studentoVardas" : "Ara Hoeger",
+    "slaptazodis" : "1235"
+  },
+  "6" : {
+    "studentoId" : "6",
+    "studentoVardas" : "Arie Hodkiewicz",
+    "slaptazodis" : "1235"
+  },
+  "7" : {
+    "studentoId" : "7",
+    "studentoVardas" : "Dusty Bernier V",
+    "slaptazodis" : "1235"
+  },
+  "8" : {
+    "studentoId" : "8",
+    "studentoVardas" : "Eric Bauch",
+    "slaptazodis" : "1235"
+  },
+  "9" : {
+    "studentoId" : "9",
+    "studentoVardas" : "Van Nitzsche",
+    "slaptazodis" : "1235"
+  },
+  "20" : {
+    "studentoId" : "20",
+    "studentoVardas" : "Gertude Kertzmann",
+    "slaptazodis" : "1235"
+  },
+  "10" : {
+    "studentoId" : "10",
+    "studentoVardas" : "Bruno Rodriguez",
+    "slaptazodis" : "1235"
+  }
+}

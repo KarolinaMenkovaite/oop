@@ -1,0 +1,20 @@
+{
+  "1" : {
+    "destytojoId" : "1",
+    "destytojoVardas" : "Rosanna Johnston",
+    "slaptazodis" : "1235",
+    "dalykoPavadinimas" : null
+  },
+  "2" : {
+    "destytojoId" : "2",
+    "destytojoVardas" : "Robby Block MD",
+    "slaptazodis" : "1235",
+    "dalykoPavadinimas" : null
+  },
+  "3" : {
+    "destytojoId" : "3",
+    "destytojoVardas" : "Joshua Koepp",
+    "slaptazodis" : "1235",
+    "dalykoPavadinimas" : null
+  }
+}
